@@ -58,3 +58,6 @@ Core idea behind Chapter 4 - individually random, collectively predictable.
 
 : First attempt printed nothing to console - script wasn't attached to a GameObject, so Awake() never ran. Created a DataManager GameObject, attached DataLoader, replayed - console printed "Loaded 3386 isotopes", matching Python's count.
 Confirms full data pipeline end to end: IAEA -> Python -> Unity, counts matching at every step.
+
+12 Oct 26
+:
