@@ -61,35 +61,35 @@ public class Isotope{
         }
         else if (Band() == 1)
         {
-            return "Thats Quicker than a blink!";
+            return "Quicker than a blink!";
         }
         else if (Band() == 2)
         {
-            return "Its under a minute! I wonder if you could run a km that fast.";
+            return "Under a minute! I wonder if you could run a km that fast.";
         }
         else if (Band() == 3)
         {
-            return "This one's under an hour. This is around the same time as the average coffee break!";
+            return "Under an hour. This is around the same time as the average coffee break!";
         }
         else if (Band() == 4)
         {
-            return "It's under a day! Maybe you could have breakfast and dinner in that time.";
+            return "Under a day! Maybe you could have breakfast and dinner in that time.";
         }
         else if (Band() == 5)
         {
-            return "It's under 1 whole year! Would you remember it if you started counting from the start?";
+            return "Under 1 whole year! Would you remember it if you started counting from the start?";
         }
         else if (Band() == 6)
         {
-            return "This one is under 100 years! I wonder if you know anyone this old.";
+            return "Under 100 years! I wonder if you know anyone this old.";
         }
         else if (Band() == 7)
         {
-            return "This one is older than 100 years! I dont think anyone has lived that long...";
+            return "Older than 100 years! I dont think anyone has lived that long...";
         }
         else
         {
-            return "This one is older than 100 years! I dont think anyone has lived that long...";
+            return "Older than 100 years! I dont think anyone has lived that long...";
         }
     }
 }
